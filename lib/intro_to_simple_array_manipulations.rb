@@ -27,3 +27,10 @@ Y= [5, 6, 7]
 X.concat Y
 X
 end
+
+def using_insert
+X = [1, 2, 3, 4]
+new_elemnt= 5
+X.insert(new_element)
+X
+end
