@@ -24,6 +24,6 @@ return arists
 def using_concat
 X = [1, 2, 3, 4]
 Y= [5, 6, 7]
-x.concat y
-return x+Y
+X.concat Y
+X
 end
