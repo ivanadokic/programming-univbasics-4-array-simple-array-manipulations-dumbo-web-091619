@@ -34,3 +34,9 @@ new_elemnt= 5
 X.insert(new_element)
 X
 end
+
+def using_uniq
+A = [1, 2, 3, 4]
+A.uniq
+A
+end
